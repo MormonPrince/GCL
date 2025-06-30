@@ -1,0 +1,69 @@
+{
+    "label": "Civic Arkansas Democracy Reading Challenge",
+    "description": "Summer 2025 - Democracy Reading Challenge ",
+    "list": [
+        {
+            "label": "We the People : TheStory of Our Constitution",
+            "isbns": [
+                "9781416954187",
+            ]
+        },
+        {
+            "label": "Democracy : Stories From the Long Road to Freedom",
+            "isbns": [
+                "9781455540181",
+                "1455540188",
+                "9781455571192"
+            ]
+        },
+        {
+            "label": "The Conservative Heart : How to build a fairer, happier, and more prosperous America",
+            "isbns": [
+                "9780062319753",
+                "9780062319760",
+                "9780062319777",
+            ]
+        },
+        {
+            "label": "How Democracies Die",
+            "isbns": [
+                "9781524762933",
+                "9781524762940",
+                "9780241381359",
+                "9781984825773",
+                "9781524762957",
+                "9780241336496"
+            ]
+        },
+        {
+            "label": "Faith Moves : Leaving Comfort for Your Calling",
+            "isbns": [
+                "9798832784009",
+            ]
+        },
+        {
+            "label": "Becoming",
+            "isbns": [
+                "9781524763138",
+                "1524763136",
+                "9781524763152"
+            ]
+        },
+        {
+            "label": "Them : Why we Hate Each Other - And How to Heal",
+            "isbns": [
+                "9781250193681",
+                "1250193680",
+                "9781250193674",
+            ]
+        },
+        {
+            "label": "Whjy We're Polarized",
+            "isbns": [
+              "9781476700328",
+              "9781476700366",
+              "9781476700397",
+            ]
+        }
+    ]
+}
